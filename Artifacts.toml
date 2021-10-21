@@ -1,0 +1,20 @@
+[[SurfelsLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3d1868df4451717b61102c2243b3048b7207a853"
+libc = "glibc"
+os = "linux"
+
+    [[SurfelsLib.download]]
+    sha256 = "9a73badb5546b2f3d641f2cb3a3eb45e64fcd1327b5bebf3037973eaf7b396b9"
+    url = "https://github.com/gzhang8/SurfelsLib_jll.jl/releases/download/SurfelsLib-v0.1.0+0/SurfelsLib.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[SurfelsLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7b7b11e9600dfd125fd6772f343050777bc5d390"
+libc = "glibc"
+os = "linux"
+
+    [[SurfelsLib.download]]
+    sha256 = "3f671d0a59e2e0d9b5bbf27a22d8b97a5cd9703ad4d378dc0a024830beb1548b"
+    url = "https://github.com/gzhang8/SurfelsLib_jll.jl/releases/download/SurfelsLib-v0.1.0+0/SurfelsLib.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
